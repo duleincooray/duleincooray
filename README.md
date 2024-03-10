@@ -1,32 +1,41 @@
-<h1>Hi there 👋 I'm Dulein Cooray</h1> 
+<h1>Hello World 👋 I'm Dulein Cooray</h1> 
 <hr>
 
-I'm Dulein Cooray, a CS undergraduate student on a path to becoming a data scientist. 📊
+<a> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*e4HBnH84BpwLCFr78xvfjg.gif" alt="html5" height="200" /></a>
 
-<h3>🌱 Currently, I'm learning deeply in a few programming languages 🌐.</h3>
+CS undergraduate student on a path to becoming a data scientist. 
+
+<h3>🌱 Currently, I'm learning deeply in a few programming languages 🌐.</h3> 
 <ul>
-  <li>Html</li>
+  <li>Html</li> 
   <li>CSS</li>
   <li>C++</li>  
 </ul>
+
+<a> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" alt="html5" height="25" /></a>
+<a> <img src="https://vectorwiki.com/images/YKL11__css.svg" alt="html5" height="25" /></a>
+<a> <img src="https://github.com/detain/svg-logos/blob/master/svg/h/html-1.svg" alt="html5" height="25" /></a>
+
 🔭Hoping to expand my knowledge into script languages too.
+
 
 
 <h4>📸 I’m currently working on a Photography page for myself using Html & CSS. <h4/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://twitter.com/dulein_cooray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="30" /></a>&nbsp;
-	<a href="https://www.linkedin.com/in/dulein-cooray-184b382b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="30" /></a> &nbsp;
-	<a href="https://web.facebook.com/dulein.cooray.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.elia" height="30" /></a>&nbsp;
-	<a href="https://www.instagram.com/dulein.cooray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
+	<a href="https://twitter.com/dulein_cooray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="25" /></a>&nbsp;
+	<a href="https://www.linkedin.com/in/dulein-cooray-184b382b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="25" /></a> &nbsp;
+	<a href="https://web.facebook.com/dulein.cooray.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.elia" height="25" /></a>&nbsp;
+	<a href="https://www.instagram.com/dulein.cooray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="25" /></a>&nbsp;
 	</p>
 
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Other Skills:</h3>
 <p align="left">
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" /></a>
-	<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" height="30" /></a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30" /></a>
+	<a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/s/sketchup-logo-2020.svg" alt="html5" height="25" /></a>
+	<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="html5" height="25" /></a>
+	<a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/pheralb/svgl/blob/main/static/library/lightroom.svg" alt="html5" height="25" /></a>
+	<a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://github.com/pheralb/svgl/blob/main/static/library/indesign.svg" alt="html5" height="25" /></a>
 </p>
 
 
