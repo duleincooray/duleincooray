@@ -1,16 +1,17 @@
 <h1>Hello World 👋 I'm Dulein Cooray</h1> 
 <hr>
 
-<a> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*e4HBnH84BpwLCFr78xvfjg.gif" alt="html5" height="200" /></a>
+<a> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*e4HBnH84BpwLCFr78xvfjg.gif" align="right" alt="html5" height="150" /></a>
 
 CS undergraduate student on a path to becoming a data scientist. 
 
-<h3>🌱 Currently, I'm learning deeply in a few programming languages 🌐.</h3> 
+<h3 align="left">🌱 Currently, I'm learning deeply in a few programming languages 🌐.</h3> 
 <ul>
   <li>Html</li> 
   <li>CSS</li>
   <li>C++</li>  
-</ul>
+</ul> 
+
 
 <a> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" alt="html5" height="25" /></a>
 <a> <img src="https://vectorwiki.com/images/YKL11__css.svg" alt="html5" height="25" /></a>
@@ -18,12 +19,12 @@ CS undergraduate student on a path to becoming a data scientist.
 
 🔭Hoping to expand my knowledge into script languages too.
 
-
+<a> <img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" alt="html5" height="25" /></a>
 
 <h4>📸 I’m currently working on a Photography page for myself using Html & CSS. <h4/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 	<a href="https://twitter.com/dulein_cooray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="25" /></a>&nbsp;
 	<a href="https://www.linkedin.com/in/dulein-cooray-184b382b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="25" /></a> &nbsp;
 	<a href="https://web.facebook.com/dulein.cooray.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.elia" height="25" /></a>&nbsp;
