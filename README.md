@@ -1,11 +1,12 @@
 <h1>Hello World 👋 I'm Dulein Cooray</h1> 
-<hr>
+<hr size ="3">
 
 <a> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*e4HBnH84BpwLCFr78xvfjg.gif" align="right" alt="html5" height="150" /></a>
 
 CS undergraduate student on a path to becoming a data scientist. 
 
 <h3 align="left">🌱 Currently, I'm learning deeply in a few programming languages 🌐.</h3> 
+<hr size ="1">
 <ul>
   <li>Html</li> 
   <li>CSS</li>
@@ -18,12 +19,16 @@ CS undergraduate student on a path to becoming a data scientist.
 <a> <img src="https://github.com/detain/svg-logos/blob/master/svg/h/html-1.svg" alt="html5" height="25" /></a>
 
 🔭Hoping to expand my knowledge into script languages too.
-
-<a> <img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" alt="html5" height="25" /></a>
-
 <h4>📸 I’m currently working on a Photography page for myself using Html & CSS. <h4/>
+	
+<h3>Hackerrank Badges<h3/>
+	<hr size ="1">
+<a href="https://www.hackerrank.com/profile/duleincooray4"> <img src="https://github.com/duleincooray/HackerRank-Badges/blob/main/cpp.png" alt="html5" height="100" /></a>
+
+
 
 <h3>Connect with me:</h3>
+<hr size ="1">
 <p>
 	<a href="https://twitter.com/dulein_cooray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="25" /></a>&nbsp;
 	<a href="https://www.linkedin.com/in/dulein-cooray-184b382b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="25" /></a> &nbsp;
@@ -32,6 +37,7 @@ CS undergraduate student on a path to becoming a data scientist.
 	</p>
 
   <h3 align="left">Other Skills:</h3>
+  <hr size ="1">
 <p align="left">
 	<a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/s/sketchup-logo-2020.svg" alt="html5" height="25" /></a>
 	<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="html5" height="25" /></a>
