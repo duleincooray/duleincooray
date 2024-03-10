@@ -6,7 +6,6 @@
 CS undergraduate student on a path to becoming a data scientist. 
 
 <h3 align="left">🌱 Currently, I'm learning deeply in a few programming languages 🌐.</h3> 
-<hr size ="1">
 <ul>
   <li>Html</li> 
   <li>CSS</li>
