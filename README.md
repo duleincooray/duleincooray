@@ -23,7 +23,7 @@ CS undergraduate student on a path to becoming a data scientist.
 	
 <h3>Hackerrank Badges<h3/>
 	<hr size ="1">
-<a href="https://www.hackerrank.com/profile/duleincooray4"> <img src="https://github.com/duleincooray/HackerRank-Badges/blob/main/cpp.png" alt="html5" height="100" /></a>
+<a href="https://www.hackerrank.com/profile/duleincooray4"> <img src="https://github.com/duleincooray/HackerRank-Badges/blob/main/cpp.png" align="left" alt="html5" height="85" /></a> <a href="https://www.hackerrank.com/profile/duleincooray4"> <img src="https://github.com/duleincooray/HackerRank-Badges/blob/main/python.png" alt="html5" height="90" /></a>
 
 
 
