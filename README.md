@@ -7,16 +7,18 @@ CS undergraduate student on a path to becoming a data scientist.
 
 <h3 align="left">🌱 Currently, I'm learning deeply in a few programming languages 🌐.</h3> 
 <ul>
-  <li>Html</li> 
-  <li>CSS</li>
-  <li>C++</li>
-  <li>PHP</li>		
+	<li>Java</li>
+	<li>C++</li>
+  	<li>Html</li> 
+  	<li>CSS</li>
+  	<li>PHP</li>		
 </ul> 
 
-
+<a> <img src="https://github.com/detain/svg-logos/blob/07e36b4aa0691f3015886624395e083395e528c5/svg/j/java.svg" alt="html5" height="25" /></a>
 <a> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" alt="html5" height="25" /></a>
-<a> <img src="https://vectorwiki.com/images/YKL11__css.svg" alt="html5" height="25" /></a>
 <a> <img src="https://github.com/detain/svg-logos/blob/master/svg/h/html-1.svg" alt="html5" height="25" /></a>
+<a> <img src="https://vectorwiki.com/images/YKL11__css.svg" alt="html5" height="25" /></a>
+<a> <img src="https://github.com/detain/svg-logos/blob/07e36b4aa0691f3015886624395e083395e528c5/svg/p/php-1.svg" alt="html5" height="25" /></a>
 
 🔭Hoping to expand my knowledge into script languages too.
 <h4>📸 I’m currently working on a Photography page for myself using Html & CSS. <h4/>
