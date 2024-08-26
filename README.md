@@ -14,6 +14,8 @@ CS undergraduate student on a path to becoming a data scientist.
   	<li>PHP</li>		
 </ul> 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="60db37a7-9a36-465f-8465-05cfe4c076aa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <a> <img src="https://github.com/detain/svg-logos/blob/07e36b4aa0691f3015886624395e083395e528c5/svg/j/java.svg" alt="html5" height="25" /></a>
 <a> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" alt="html5" height="25" /></a>
 <a> <img src="https://github.com/detain/svg-logos/blob/master/svg/h/html-1.svg" alt="html5" height="25" /></a>
