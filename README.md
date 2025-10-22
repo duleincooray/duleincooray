@@ -13,7 +13,7 @@
   <a href="https://twitter.com/dulein_cooray" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
   </a>
-  <a href="https://www.instagram.com/dulein.cooray/" target="_blank">
+  <a href="https://www.instagram.com/dk.cooray/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
