@@ -22,7 +22,7 @@
 
 ### 📍 About Me
 
-I am a Computer Science undergraduate majoring in **Artificial Intelligence** at Swinburne University of TechnologySarawak Campus in Malaysia, with a strong interest in AI, Cloud Computing, and IT systems. Alongside my academic journey, I have hands-on experience in cloud architecture, DevOps practices, and software development through various projects and leadership roles.
+I am a Computer Science undergraduate majoring in **Artificial Intelligence** at Swinburne University of Technology Sarawak Campus in Malaysia, with a strong interest in AI, Cloud Computing, and IT systems. Alongside my academic journey, I have hands-on experience in cloud architecture, DevOps practices, and software development through various projects and leadership roles.
 
 Beyond my technical background, I bring **5+ years of experience in graphic design**, which has sharpened my creativity, problem-solving, and attention to detail—skills I actively apply when building technical solutions.
 
@@ -58,4 +58,35 @@ I am passionate about bridging innovation and impact, whether through designing 
 ### 🎨 Design & Creativity
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=AdobeLightroom&logoColor=white" alt="Lightroom">
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+### 🌐 Web & App Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+</p>
+
+---
+
+## 🔭 What I'm Doing Now
+
+* 🎓 **Academic Focus:** Currently building my final year project—an AI-driven spatial-temporal framework for occlusion-robust sport pose estimation.
+* 🚩 **Community Building:** Proud to be a **GitHub Campus Expert**, bridging gaps for student developers.
+* 🚀 **Entrepreneurship:** Co-founder of **IsleDev**, a digital agency specializing in design-led software development.
+* 🌍 **Leadership & Conservation:** Driving initiatives as a Director at **Climate Frontiers** and heading national marketing/local operations in **AIESEC**.
+* ♟️ **Off-Screen:** When I'm not coding or designing, I operate as a professional chess coach, arbiter, and competitive player.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/duleincooray">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Dulein's GitHub Stats" />
+  </a>
+</p>
